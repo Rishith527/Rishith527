@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishith Reddy Pendli</h1>
 <h3 align="center">Data Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishith527&label=Profile%20views&color=0e75b6&style=flat" alt="rishith527" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishith527" alt="rishith527" /></a> </p>
 
 - 🌱 I’m currently learning **Azure**
